@@ -6,7 +6,11 @@ This Python script takes the list values from:
 https://hacker-news.firebaseio.com/v0/beststories.json?print=pretty
 
 It loops through the list for any stories with scores over 1000 and prints out the
+
 Title
+
 Author
+
 Date/Time
+
 URL
